@@ -61,6 +61,10 @@ h1 {
   color: #f57c34;
 }
 
+.seccion-titulo-recientes {
+  font-family: 'Rubik Bubbles';
+}
+
 .seccion-texto {
   font-size: 1.2rem;
 }
