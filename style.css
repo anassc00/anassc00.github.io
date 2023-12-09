@@ -239,7 +239,6 @@ h1 {
 
 .carousel-item {
   height: 500px;
-  color: white;
 }
 
 .carousel-item .container {
@@ -249,6 +248,14 @@ h1 {
   flex-direction: column;
   align-items: center;
   justify-content: center;
+}
+
+.carousel-control-prev-icon {
+  background-color: #ff385f;
+}
+
+.carousel-control-next-icon {
+  background-color: #ff385f;
 }
 
 .testimonio-imagen {
@@ -344,7 +351,7 @@ footer {
 
 .footer-logo {
   height: 80px;
-  width: 150px;
+  width: 80px;
   margin: 10px;
 }
 
